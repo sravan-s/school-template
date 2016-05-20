@@ -1,0 +1,23 @@
+{
+  "name": "school",
+  "description": "",
+  "main": "index.js",
+  "authors": [
+    "ess_ess"
+  ],
+  "license": "MIT",
+  "moduleType": [],
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^2.2.3",
+    "vegas": "^2.2.1"
+  }
+}

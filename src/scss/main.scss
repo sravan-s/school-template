@@ -1,0 +1,15 @@
+//Common styles and declarations
+@import 'partials/declarations';
+@import 'partials/normalize';
+@import 'partials/commonAndMisc';
+
+//Section specific
+@import 'partials/header';
+@import 'partials/main';
+@import 'partials/footer';
+
+//Test style
+body {
+    border: 1px solid red;
+    color: red;
+}
